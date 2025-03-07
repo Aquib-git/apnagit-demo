@@ -1,3 +1,3 @@
 # apnagit-demo
-This is my git demo repository 
+This is my git demo repository. 
 Author-Aquib jamal 
